@@ -1,0 +1,2 @@
+n,p,expected_value,variance,probability_no_successes,probability_at_least_one
+10,1,10,0,0,1

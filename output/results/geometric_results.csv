@@ -1,0 +1,2 @@
+p,expected_wait_days,variance,probability_first_day,probability_wait_over_5_days
+1,1,0,1,0

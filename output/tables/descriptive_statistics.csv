@@ -1,0 +1,2 @@
+flight_records,total_flights,delayed_flights,delayed_proportion,mean_delay,variance_delay,sd_delay,min_delay,q1_delay,median_delay,q3_delay,max_delay
+2922356,2922356,992843,0.3397406065517001,10.123326179288561,2425.743238561756,49.251834875076035,-90,-6,-2,6,2966

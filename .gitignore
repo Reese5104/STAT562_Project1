@@ -1,0 +1,15 @@
+data/raw/flight_delays.csv
+data/cleaned/flights_cleaned.rds
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# RStudio
+.Rhistory
+.Rapp.history
+.Rproj.user/

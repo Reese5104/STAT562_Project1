@@ -1,0 +1,2 @@
+rows_raw,rows_cleaned,date_column,delay_column,granularity
+3000000,2922356,fl_date,dep_delay,flight-level record
